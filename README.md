@@ -91,10 +91,10 @@ Crear un front minimalista para poder interactuar con el contrato de Venta Públ
 **Sources**
 [Todos los videos](https://drive.google.com/drive/folders/19-Bl4YdkChTKdYBHe5zUG1SNG6cL0sn6?usp=share_link)
 
-[Empieza aquí](https://drive.google.com/file/d/1hMwLreEmAu1y8nfGDEvBvjMBOIYNgxO2/view?usp=share_link)
-[Repositorio parte 1](https://drive.google.com/file/d/11axRps6WBAAaXFRN3k7730F9eBTEIpAn/view?usp=share_link)
-[Repositorio parte 2](https://drive.google.com/file/d/1etqz5SFuE-IGZxMvdV4R92-JnjMTBsQs/view?usp=share_link)
-[Front-end final](https://drive.google.com/file/d/13QBkBr1XsdiE7h9F7MtkCq00TErA_mAA/view?usp=share_link)
-[Open Zeppelin Defender](https://drive.google.com/file/d/1zy_fyBFYwEX8KKeIi_cJqtoYFYPGHfCs/view?usp=share_link)
-[Envio de Ether al SC](https://drive.google.com/file/d/1eY1JowcTq7WbpJfHNF0Iiq5JFCGs63t9/view?usp=share_link)
-[Swap USDC=>MiPrimerToken](https://drive.google.com/file/d/1VEa_ExK_oxvHc8Q34YRv_y6LobWRoJ1M/view?usp=share_link)
+1. [Empieza aquí](https://drive.google.com/file/d/1hMwLreEmAu1y8nfGDEvBvjMBOIYNgxO2/view?usp=share_link)
+2. [Repositorio parte 1](https://drive.google.com/file/d/11axRps6WBAAaXFRN3k7730F9eBTEIpAn/view?usp=share_link)
+3. [Repositorio parte 2](https://drive.google.com/file/d/1etqz5SFuE-IGZxMvdV4R92-JnjMTBsQs/view?usp=share_link)
+4. [Front-end final](https://drive.google.com/file/d/13QBkBr1XsdiE7h9F7MtkCq00TErA_mAA/view?usp=share_link)
+5. [Open Zeppelin Defender](https://drive.google.com/file/d/1zy_fyBFYwEX8KKeIi_cJqtoYFYPGHfCs/view?usp=share_link)
+6. [Envio de Ether al SC](https://drive.google.com/file/d/1eY1JowcTq7WbpJfHNF0Iiq5JFCGs63t9/view?usp=share_link)
+7. [Swap USDC=>MiPrimerToken](https://drive.google.com/file/d/1VEa_ExK_oxvHc8Q34YRv_y6LobWRoJ1M/view?usp=share_link)
